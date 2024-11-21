@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UsyFADE.png" tvg-id="MEGA",MEGA TV (720p) [Geo-blocked]
 https://embed.vindral.com/?channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670
-https://0df53bbc22ae482295dbcf7370989099.msvdn.net/vod/JCAyrKr2UqYk/original.mp4
 #EXTINF:-1 tvg-id="4E.gr",4E (720p)
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Action24.gr",Action 24 (1080p)
