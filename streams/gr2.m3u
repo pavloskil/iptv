@@ -40,11 +40,11 @@ https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 tvg-id="EpirusTV1.gr",Epirus TV1 (1080p)
 https://til.pp.ua:3928/live/epiruslive.m3u8
 #EXTINF:-1 tvg-id="ERT1.gr",ERT1
-http://88.99.254.101/ert1/mono.m3u8
+http://ertflix.s.llnwi.net/ertlive/ERT/default/playlist.m3u8
 #EXTINF:-1 tvg-id="ERT2.gr",ERT2
-http://88.99.254.101/ert2/mono.m3u8
+http://ertflix.s.llnwi.net/ertlive/ERT2/default/playlist.m3u8
 #EXTINF:-1 tvg-id="ERT3.gr",ERT3
-http://88.99.254.101/ert3/mono.m3u8
+http://ertflix.s.llnwi.net/ertlive/ERT3/default/playlist.m3u8
 #EXTINF:-1 tvg-id="ERT-News",ERT News
 http://ertflix.s.llnwi.net/ertlive/ERTNews/default/playlist.m3u8
 #EXTINF:-1 tvg-id="ERT-World",ERT World
