@@ -38,16 +38,20 @@ https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 tvg-id="EpirusTV1.gr",Epirus TV1 (1080p)
 https://til.pp.ua:3928/live/epiruslive.m3u8
-#EXTINF:-1 tvg-id="ERT1.gr",ERT1
-http://ertflix.s.llnwi.net/ertlive/ERT/default/playlist.m3u8
-#EXTINF:-1 tvg-id="ERT2.gr",ERT2
-http://ertflix.s.llnwi.net/ertlive/ERT2/default/playlist.m3u8
-#EXTINF:-1 tvg-id="ERT3.gr",ERT3
-http://ertflix.s.llnwi.net/ertlive/ERT3/default/playlist.m3u8
+#EXTINF:-1 tvg-id="ERT1.gr" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert1-logo-800x300.png",ERT1
+https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/playlist.m3u8
+#EXTINF:-1 tvg-id="ERT2.gr" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert2-logo-800x300.png",ERT2
+https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24828z/playlist.m3u8
+#EXTINF:-1 tvg-id="ERT3.gr" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert3-logo-800x300.png",ERT3
+https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/playlist.m3u8
 #EXTINF:-1 tvg-id="ERT-News" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert-news-logo-800x300.png",ERT News
 http://ertflix.s.llnwi.net/ertlive/ERTNews/default/playlist.m3u8
-#EXTINF:-1 tvg-id="ERT-World",ERT World
+#EXTINF:-1 tvg-id="ERT-World" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertworld-logo-800x300.png",ERT World
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
+#EXTINF:-1 tvg-id="ERT-Music" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert-music-800x300.png",ERT Music
+https://ertflix.s.llnwi.net/ertlive/music/default/playlist.m3u8
+#EXTINF:-1 tvg-id="ERT-Kids" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert-kids-800x300.png",ERT Kids
+ttps://ertflix.s.llnwi.net/ertlive/kids/default//playlist.m3u8
 #EXTINF:-1 tvg-id="FarosTV.gr",Faros TV (540p) [Geo-blocked]
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 tvg-id="FarosTV2.gr",Faros TV2 (480p) [Geo-blocked]
