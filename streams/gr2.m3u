@@ -44,7 +44,7 @@ http://ertflix.s.llnwi.net/ertlive/ERT/default/playlist.m3u8
 http://ertflix.s.llnwi.net/ertlive/ERT2/default/playlist.m3u8
 #EXTINF:-1 tvg-id="ERT3.gr",ERT3
 http://ertflix.s.llnwi.net/ertlive/ERT3/default/playlist.m3u8
-#EXTINF:-1 tvg-id="ERT-News",ERT News
+#EXTINF:-1 tvg-id="ERT-News" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert-news-logo-800x300.png",ERT News
 http://ertflix.s.llnwi.net/ertlive/ERTNews/default/playlist.m3u8
 #EXTINF:-1 tvg-id="ERT-World",ERT World
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
