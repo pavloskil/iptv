@@ -51,7 +51,7 @@ https://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
 #EXTINF:-1 tvg-id="ERT-Music" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert-music-800x300.png",ERT Music
 https://ertflix.s.llnwi.net/ertlive/music/default/playlist.m3u8
 #EXTINF:-1 tvg-id="ERT-Kids" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert-kids-800x300.png",ERT Kids
-ttps://ertflix.s.llnwi.net/ertlive/kids/default//playlist.m3u8
+ttps://ertflix.s.llnwi.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1 tvg-id="FarosTV.gr",Faros TV (540p) [Geo-blocked]
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 tvg-id="FarosTV2.gr",Faros TV2 (480p) [Geo-blocked]
