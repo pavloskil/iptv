@@ -3,6 +3,12 @@
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ANT1.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logoja_e_kanalit_grek_ANT1.svg/640px-Logoja_e_kanalit_grek_ANT1.svg.png",ANT1 (1080p) web
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
+#EXTINF:-1 tvg-id="SkaiTV.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Skai_TV_logo.svg/500px-Skai_TV_logo.svg.png",Skai TV (720p)
+http://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-id="OpenTV.gr" tvg-logo="https://opentv-static.siliconweb.com/images/Mac-512pt.png",Open TV (576p)
+#EXTINF:-1 tvg-id="StarChannel.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Star_Channel_Greece_logo.svg/440px-Star_Channel_Greece_logo.svg.png",Star Channel (720p)
+http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ERT1.gr" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert1-logo-800x300.png",ERT1
 https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:-1 tvg-id="ERT2.gr" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert2-logo-800x300.png",ERT2
@@ -56,7 +62,6 @@ https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f
 https://live.neatv.gr:8888/hls/neatv.m3u8
 #EXTINF:-1 tvg-id="NeaTV.gr",Nea TV (720p)
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
-
 #EXTINF:-1 tvg-id="NotioiTV.gr",Notioi TV (1080p)
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 tvg-id="NRG91.gr",NRG 91 (720p) [Not 24/7]
@@ -67,8 +72,6 @@ https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 https://til.pp.ua:3262/live/nstv7live.m3u8
 #EXTINF:-1 tvg-id="OneChannel.gr",One Channel (1080p) [Geo-blocked]
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8
-#EXTINF:-1 tvg-id="OpenTV.gr",Open TV (576p)
-http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PanikTV.gr",Panik TV (1080p)
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 tvg-id="PellaTV.gr",Pella TV (576p) [Not 24/7]
@@ -83,12 +86,8 @@ http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORI
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 tvg-id="SkaiTV.gr",Skai TV (720p)
 http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 tvg-id="SkaiTV.gr",Skai TV (720p)
-http://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-id="SmileTV.gr",Smile TV (360p) [Geo-blocked]
 https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1 tvg-id="StarChannel.gr",Star Channel (720p)
-http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-id="StarChannel.gr",STAR HD [Non geo blocked]
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-id="StarChannelInternational.gr",STAR International (720p)
