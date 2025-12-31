@@ -10,9 +10,9 @@ http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlis
 #EXTINF:-1 tvg-id="StarChannel.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Star_Channel_Greece_logo.svg/440px-Star_Channel_Greece_logo.svg.png",Star Channel (720p)
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-id="ERT1.gr" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert1-logo-800x300.png",ERT1
-https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
+https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:-1 tvg-id="ERT2.gr" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert2-logo-800x300.png",ERT2
-https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
+https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:-1 tvg-id="ERT3.gr" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert3-logo-800x300.png",ERT3
 https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8
 #EXTINF:-1 tvg-id="ERT-News" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert-news-logo-800x300.png",ERT News
